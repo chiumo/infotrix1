@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232318423670",
+    "firebase_url": "https://to-do-list-app-f7b4d-default-rtdb.firebaseio.com",
+    "project_id": "to-do-list-app-f7b4d",
+    "storage_bucket": "to-do-list-app-f7b4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232318423670:android:c3a8e190ef2c6a5f478557",
+        "android_client_info": {
+          "package_name": "com.example.to_dolistapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232318423670-briamasmov1fr569qhfh69gn9nl039ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDFKT5GiMuLnTVA4VBJ5GCWAYg4LEKjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232318423670-briamasmov1fr569qhfh69gn9nl039ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
